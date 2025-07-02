@@ -1,6 +1,6 @@
 ### 📁 Dataset Source
 
-The dataset used for training and validation was obtained from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/blood-cells). titled:
+The dataset used for training and validation was obtained from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/blood-cells), titled:
 **"Blood Cell Images (BCCD Dataset)"**.
 
 It contains labeled images of four types of white blood cells:
