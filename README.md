@@ -43,9 +43,3 @@ Enable fast, AI-assisted detection of white blood cell types from images to supp
 | Image Handling     | OpenCV                |
 
 ---
-├── requirements.txt        # Python dependencies
-├── .gitignore              # Ignore unnecessary files
-└── README.md               # Project overview
-```
-
----
